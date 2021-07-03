@@ -31,5 +31,5 @@ Ogliss and Gouda quiche for helping me figure out how to patch mods.
 
 ### Recent Changes
 
-- [Support] Added Support for 4 new traits in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]! (v1.6)
-- [Support] Added Support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024]Additional Traits (Heroes + Gods Optional)[/url] by Alias! (v1.7)
+- [Support] Added Support for 4 new traits in [RimTraits - General Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172)! (v1.6)
+- [Support] Added Support for [Additional Traits (Heroes + Gods Optional)](https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024) by Alias! (v1.7)
