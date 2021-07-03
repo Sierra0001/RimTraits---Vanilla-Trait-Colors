@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RimTraits - Vanilla Trait Colours</name>
+	<author>Sierra</author>
+	<packageId>Sierra.RTVTC</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<description>
+[h1]Supported Versions:[/h1]
+[b]Rimworld 1.1[/b]
+[b]Rimworld 1.2[/b]
+
+
+This mod changes [b]Vanilla[/b] trait colors according to their commonality using the RimTraits colouring scheme.
+
+
+[b]Features:[/b]
+[list]
+[*]Vanilla trait colouring
+[*]Modded trait colouring (4 mods)
+[/list]
+
+
+[b]Recommended Mods:[/b]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Gemstones[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Temperature Pylons[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1508292711][KV] More Trait Slots - 1.2[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027]RimHUD[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1855885448]Guard For Me[/url]
+[/list]
+
+
+[b]Mod Compatibility:[/b]
+[list]
+[*][Minor Conflict] Conflicts with mods that changes trait colour based on commonality.
+[*][Mod Support] Built-in support for RimTraits - General Traits.
+[*][Mod Support] Built-in support for Vanilla Fishing Expanded.
+[*][Mod Support] Built-in support for Vanilla Traits Expanded.
+[*][Mod Support] Built-in support for Additional Traits (Heroes + Gods Optional).
+[/list]
+
+
+[url=https://discord.gg/rimworld]Click here to join us on the Community Discord![/url]
+
+
+[b]Balance:[/b]
+Balance is not particular relevant in this mod, as commonality is unaltered or dependent on mod usage.
+
+
+[h1]Credits:[/h1]
+[list]
+[*]Ogliss for helping me figure out how patching works.
+[*]Gouda quiche for helping me figure out how patching works.
+[/list]
+
+
+[h1]Recent Changes:[/h1]
+[b]v1.6[/b]
+[list]
+[*][Support] Added Support for 4 new traits in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]!
+[/list]
+
+[b]v1.7[/b]
+[list]
+[*][Support] Added Support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024]Additional Traits (Heroes + Gods Optional)[/url] by Alias!
+[/list]
+	</description>
+</ModMetaData>

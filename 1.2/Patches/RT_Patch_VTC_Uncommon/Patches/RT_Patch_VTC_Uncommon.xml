@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Abrasive"]/degreeDatas/li[label="abrasive"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Abrasive&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Brawler"]/degreeDatas/li[label="brawler"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Brawler&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="FastLearner"]/degreeDatas/li[label="fast learner"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Fast Learner&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="GreatMemory"]/degreeDatas/li[label="great memory"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Great Memory&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Greedy"]/degreeDatas/li[label="greedy"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Greedy&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Gourmand"]/degreeDatas/li[label="gourmand"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Gourmand&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Jealous"]/degreeDatas/li[label="jealous"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Jealous&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="NightOwl"]/degreeDatas/li[label="night owl"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Night Owl&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Neurotic"]/degreeDatas/li[label="neurotic"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Neurotic&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Nimble"]/degreeDatas/li[label="nimble"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Nimble&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Psychopath"]/degreeDatas/li[label="psychopath"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Psychopath&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="QuickSleeper"]/degreeDatas/li[label="quick sleeper"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Quick Sleeper&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Immunity"]/degreeDatas/li[label="sickly"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Sickly&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="SlowLearner"]/degreeDatas/li[label="slow learner"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Slow Learner&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Immunity"]/degreeDatas/li[label="super-immune"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Super-immune&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="TooSmart"]/degreeDatas/li[label="too smart"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Too Smart&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Tough"]/degreeDatas/li[label="tough"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Tough&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Neurotic"]/degreeDatas/li[label="very neurotic"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Very Neurotic&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="Wimp"]/degreeDatas/li[label="wimp"]/label</xpath>
+    <value>
+      <label>&lt;color=#1f75fe&gt;Wimp&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+</Patch>
