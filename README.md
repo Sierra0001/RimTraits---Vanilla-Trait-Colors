@@ -29,7 +29,8 @@ Balance is not particular relevant in this mod, as commonality is unaltered or d
 
 Ogliss and Gouda quiche for helping me figure out how to patch mods.
 
-### Recent Changes
+### Latest Changes
 
-- [Support] Added Support for 4 new traits in [RimTraits - General Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172)! (v1.6)
 - [Support] Added Support for [Additional Traits (Heroes + Gods Optional)](https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024) by Alias! (v1.7)
+- [RimWorld 1.3] RimWorld 1.3 Ready. (v1.8)
+- [Change] Uncommon Traits now uses a lighter colour for clarity. (v1.8)

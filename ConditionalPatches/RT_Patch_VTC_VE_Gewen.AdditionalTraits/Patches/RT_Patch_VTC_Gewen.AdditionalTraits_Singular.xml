@@ -4,63 +4,63 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Confident"]/degreeDatas/li[label="Confident"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Confident&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Confident&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Overweight"]/degreeDatas/li[label="Overweight"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Overweight&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Overweight&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Athletic"]/degreeDatas/li[label="Athletic"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Athletic&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Athletic&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Dexterous"]/degreeDatas/li[label="Dexterous"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Dexterous&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Dexterous&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Perceptive"]/degreeDatas/li[label="Perceptive"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Perceptive&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Perceptive&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Clean"]/degreeDatas/li[label="Clean"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Clean&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Clean&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Nearsighted"]/degreeDatas/li[label="Near-sighted"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Near-sighted&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Near-sighted&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_QuickLearner"]/degreeDatas/li[label="Quick Learner"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Quick Learner&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Quick Learner&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Glutton"]/degreeDatas/li[label="Glutton"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Glutton&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Glutton&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -88,7 +88,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Morbid"]/degreeDatas/li[label="Morbid"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Morbid&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Morbid&lt;/color&gt;</label>
     </value>
   </Operation>
 

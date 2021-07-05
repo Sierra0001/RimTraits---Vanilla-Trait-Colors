@@ -25,7 +25,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Coward"]/degreeDatas/li[label="coward"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;coward&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;coward&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -39,7 +39,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Clumsy"]/degreeDatas/li[label="clumsy"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;clumsy&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;clumsy&lt;/color&gt;</label>
     </value>
     </Operation>
 
@@ -67,7 +67,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Neat"]/degreeDatas/li[label="neat"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;neat&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;neat&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -88,14 +88,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_IronStomach"]/degreeDatas/li[label="iron stomach"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;iron stomach&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;iron stomach&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_AnimalLover"]/degreeDatas/li[label="animal lover"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;animal lover&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;animal lover&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -116,7 +116,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Rebel"]/degreeDatas/li[label="rebel"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;rebel&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;rebel&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -144,7 +144,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_FunLoving"]/degreeDatas/li[label="fun-loving"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;fun-loving&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;fun-loving&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -165,7 +165,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Snob"]/degreeDatas/li[label="snob"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;snob&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;snob&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -179,21 +179,21 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Anxious"]/degreeDatas/li[label="anxious"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;anxious&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;anxious&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Insatiable"]/degreeDatas/li[label="insatiable"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;insatiable&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;insatiable&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Prude"]/degreeDatas/li[label="prude"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;prude&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;prude&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -207,14 +207,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_CatPerson"]/degreeDatas/li[label="cat person"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;cat person&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;cat person&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_DogPerson"]/degreeDatas/li[label="dog person"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;dog person&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;dog person&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -235,14 +235,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_ChildOfSea"]/degreeDatas/li[label="Ocean lover"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Ocean lover&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Ocean lover&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_ChildOfMountain"]/degreeDatas/li[label="Mountain lover"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;Mountain lover&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;Mountain lover&lt;/color&gt;</label>
     </value>
   </Operation>
 
@@ -284,7 +284,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="VTE_Wanderlust"]/degreeDatas/li[label="wanderlust"]/label</xpath>
     <value>
-      <label>&lt;color=#1f75fe&gt;wanderlust&lt;/color&gt;</label>
+      <label>&lt;color=#2C82FF&gt;wanderlust&lt;/color&gt;</label>
     </value>
   </Operation>
 

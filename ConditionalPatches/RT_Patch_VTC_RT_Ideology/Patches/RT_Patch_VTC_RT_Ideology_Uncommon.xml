@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Coordinated"]/degreeDatas/li[label="Coordinated"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Coordinated&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Clumsy"]/degreeDatas/li[label="Clumsy"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Clumsy&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Hardy"]/degreeDatas/li[label="Hardy"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Hardy&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Feeble"]/degreeDatas/li[label="Feeble"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Feeble&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_EasilyAmused"]/degreeDatas/li[label="Easily Amused"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Easily Amused&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_ConstantlyBemused"]/degreeDatas/li[label="Constantly Bemused"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Constantly Bemused&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Inquisitive"]/degreeDatas/li[label="Inquisitive"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Inquisitive&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="RT_Ignorant"]/degreeDatas/li[label="Ignorant"]/label</xpath>
+    <value>
+      <label>&lt;color=#2C82FF&gt;Ignorant&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+</Patch>
