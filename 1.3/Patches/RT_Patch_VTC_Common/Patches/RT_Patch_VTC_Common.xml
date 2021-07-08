@@ -18,14 +18,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="DrugDesire"]/degreeDatas/li[label="chemical fascination"]/label</xpath>
     <value>
-      <label>&lt;color=#00ff00&gt;Chemical Fascination&lt;/color&gt;</label>
+      <label>&lt;color=#00ff00&gt;chemical fascination&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="DrugDesire"]/degreeDatas/li[label="chemical interest"]/label</xpath>
     <value>
-      <label>&lt;color=#00ff00&gt;Chemical Interest&lt;/color&gt;</label>
+      <label>&lt;color=#00ff00&gt;chemical interest&lt;/color&gt;</label>
     </value>
   </Operation>
 
