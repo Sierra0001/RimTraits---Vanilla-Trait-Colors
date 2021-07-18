@@ -1,6 +1,6 @@
 # RimTraits - Vanilla Trait Colors
 
-This mod changes Vanilla trait colors according to their commonality using the RimTraits coloring scheme.
+This mod changes Vanilla and Modded trait colors according to their commonality using the RimTraits coloring scheme.
 
 ### Features
 
