@@ -18,13 +18,13 @@
 [h1]Mod Version: v1.8[/h1]
 
 
-This mod changes [b]Vanilla[/b] trait colors according to their commonality using the RimTraits colouring scheme.
+This mod changes [b]Vanilla[/b] trait colors according to their commonality using the RimTraits coloring scheme.
 
 
 [b]Features:[/b]
 [list]
-[*]Vanilla trait colouring
-[*]Modded trait colouring (4 mods)
+[*]Vanilla trait coloring
+[*]Modded trait coloring (4 mods)
 [/list]
 
 
@@ -44,7 +44,7 @@ This mod changes [b]Vanilla[/b] trait colors according to their commonality usin
 
 [b]Mod Compatibility:[/b]
 [list]
-[*][Minor Conflict] Conflicts with mods that changes trait colour based on commonality.
+[*][Minor Conflict] Conflicts with mods that changes trait color based on commonality.
 [*][Mod Support] Built-in support for RimTraits - General Traits.
 [*][Mod Support] Built-in support for Vanilla Fishing Expanded.
 [*][Mod Support] Built-in support for Vanilla Traits Expanded.
@@ -70,7 +70,7 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 [b]v1.8[/b]
 [list]
 [*][RimWorld 1.3] RimWorld 1.3 Ready.
-[*][Change] Uncommon Traits now uses a lighter colour for clarity.
+[*][Change] Uncommon Traits now uses a lighter color for clarity.
 [/list]
 	</description>
 </ModMetaData>

@@ -13,7 +13,7 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 
 ### Compatibility
 
-- [Minor Conflict] Conflicts with mods that changes trait colour based on commonality.
+- [Minor Conflict] Conflicts with mods that change trait color based on commonality.
 - [Mod Support] Built-in support for RimTraits - General Traits.
 - [Mod Support] Built-in support for Vanilla Fishing Expanded.
 - [Mod Support] Built-in support for Vanilla Traits Expanded.
