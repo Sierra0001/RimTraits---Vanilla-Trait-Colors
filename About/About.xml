@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RimTraits - Vanilla Trait Colours</name>
+	<name>RimTraits - Vanilla Trait Colors</name>
 	<author>Sierra</author>
-	<packageId>Sierra.RTVTC</packageId>
+	<packageId>Sierra.RT.VanillaTraitColors</packageId>
 	<url></url>
 	<supportedVersions>
 		<li>1.1</li>
@@ -33,6 +33,7 @@ This mod changes [b]Vanilla[/b] trait colors according to their commonality usin
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Gemstones[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Temperature Regulation[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Crystallic Lighting[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890]RimFantasy - Arcane Weapons[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1508292711][KV] More Trait Slots - 1.2[/url]
@@ -55,7 +56,7 @@ This mod changes [b]Vanilla[/b] trait colors according to their commonality usin
 
 
 [b]Balance:[/b]
-Balance is not particular relevant in this mod, as commonality is unaltered or dependent on mod usage.
+Balance is not particularly relevant in this mod, as commonality is unaltered or dependent on mod usage.
 
 
 [h1]Credits:[/h1]
@@ -66,11 +67,6 @@ Balance is not particular relevant in this mod, as commonality is unaltered or d
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.7[/b]
-[list]
-[*][Support] Added Support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024]Additional Traits (Heroes + Gods Optional)[/url] by Alias!
-[/list]
-
 [b]v1.8[/b]
 [list]
 [*][RimWorld 1.3] RimWorld 1.3 Ready.

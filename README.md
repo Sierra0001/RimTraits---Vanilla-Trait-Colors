@@ -1,15 +1,15 @@
-# RimTraits - Vanilla Trait Colours
+# RimTraits - Vanilla Trait Colors
 
-This mod changes Vanilla trait colors according to their commonality using the RimTraits colouring scheme.
+This mod changes Vanilla trait colors according to their commonality using the RimTraits coloring scheme.
 
 ### Features
 
-- Vanilla trait colouring
-- Modded trait colouring (4 mods)
+- Vanilla trait coloring
+- Modded trait coloring (4 mods)
 
 ### Balance
 
-Balance is not particular relevant in this mod, as commonality is unaltered or dependent on mod usage.
+Balance is not particularly relevant in this mod, as commonality is unaltered or dependent on mod usage.
 
 ### Compatibility
 
@@ -21,9 +21,9 @@ Balance is not particular relevant in this mod, as commonality is unaltered or d
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colours/releases/tag/v1.8)
+- [Current Version](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colors/releases/tag/v1.8)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116)
-- [GitHub](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colours)
+- [GitHub](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colors)
 
 ### Credits
 
@@ -31,6 +31,5 @@ Ogliss and Gouda quiche for helping me figure out how to patch mods.
 
 ### Latest Changes
 
-- [Support] Added Support for [Additional Traits (Heroes + Gods Optional)](https://steamcommunity.com/sharedfiles/filedetails/?id=1621571024) by Alias! (v1.7)
 - [RimWorld 1.3] RimWorld 1.3 Ready. (v1.8)
-- [Change] Uncommon Traits now uses a lighter colour for clarity. (v1.8)
+- [Change] Uncommon Traits now uses a lighter color for clarity. (v1.8)
