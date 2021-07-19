@@ -15,7 +15,7 @@
 		<li>Ludeon.RimWorld.Ideology</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.8[/h1]
+[h1]Mod Version: v1.8.1[/h1]
 
 
 This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to their commonality using the RimTraits coloring scheme.
@@ -71,6 +71,11 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 [list]
 [*][RimWorld 1.3] RimWorld 1.3 Ready.
 [*][Change] Uncommon Traits now uses a lighter color for clarity.
+[/list]
+
+[b]v1.8.1[/b]
+[list]
+[*][Fix] Fixed trait colors not working for certain traits due to change in packageId.
 [/list]
 	</description>
 </ModMetaData>
