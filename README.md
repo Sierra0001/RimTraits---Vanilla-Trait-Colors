@@ -21,9 +21,9 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colors/releases/tag/v1.8.1)
+- [Current Version](https://github.com/Sierra0001/RimTraits---Vanilla-Trait-Colors/releases/tag/v1.8.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116)
-- [GitHub](https://github.com/Sierra0003/RimTraits---Vanilla-Trait-Colors)
+- [GitHub](https://github.com/Sierra0001/RimTraits---Vanilla-Trait-Colors)
 
 ### Credits
 
