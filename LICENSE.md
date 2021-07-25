@@ -16,4 +16,4 @@ Use material for commercial purposes.
 
 Note: Exceptions may be granted on a limited basis.
 
-If you are unsure of your rights under the license and need clarification, please contact me. I can be reached on Discord via https://discord.gg/rimworld as <@236450906701299712>, or on GitHub under [https://github.com/Sierra0003]
+If you are unsure of your rights under the license and need clarification, please contact me. I can be reached on Discord via https://discord.gg/rimworld as <@236450906701299712>, or on GitHub under [https://github.com/Sierra0001]
