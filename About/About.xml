@@ -81,12 +81,6 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.8[/b]
-[list]
-[*][RimWorld 1.3] RimWorld 1.3 Ready.
-[*][Change] Uncommon Traits now uses a lighter color for clarity.
-[/list]
-
 [b]v1.8.1[/b]
 [list]
 [*][Fix] Fixed trait colors not working for certain traits due to change in packageId.
@@ -95,7 +89,14 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 [b]v1.9[/b]
 [list]
 [*][RimWorld 1.4] RimWorld 1.4 Ready.
-[*][DEV] Updated some labels to adhere to vanilla standards.
+[*][DEV] Updated some labels to vanilla standards.
+[/list]
+
+[b]v1.9.1[/b]
+[list]
+[*][RimWorld 1.4] RimWorld 1.4 Ready.
+[*][DEV] Updated patching method for RimTrait - General Traits.
+[*][DEV] Updated some labels to vanilla standards.
 [/list]
 	</description>
 </ModMetaData>
