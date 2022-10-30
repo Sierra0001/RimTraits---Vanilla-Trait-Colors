@@ -1,7 +1,6 @@
 <loadFolders>
   <v1.1>
     <li>1.2</li>
-    <li IfModActive="Sierra.RT.GeneralTraits">ConditionalPatches/RT_Patch_VTC_RT_GeneralTraits</li>
     <li IfModActive="VanillaExpanded.VCEF">ConditionalPatches/RT_Patch_VTC_VE_VCEF</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">ConditionalPatches/RT_Patch_VTC_VE_VTE</li>
     <li IfModActive="Gewen.AdditionalTraits">ConditionalPatches/RT_Patch_VTC_VE_Gewen.AdditionalTraits</li>
@@ -9,7 +8,6 @@
   <v1.2>
     <li>1.2</li>
     <!--<li IfModActive="Ludeon.RimWorld.Royalty">ConditionalPatches/RT_Patch_RimWorld_Royalty</li>-->
-    <li IfModActive="Sierra.RT.GeneralTraits">ConditionalPatches/RT_Patch_VTC_RT_GeneralTraits</li>
     <li IfModActive="VanillaExpanded.VCEF">ConditionalPatches/RT_Patch_VTC_VE_VCEF</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">ConditionalPatches/RT_Patch_VTC_VE_VTE</li>
     <li IfModActive="Gewen.AdditionalTraits">ConditionalPatches/RT_Patch_VTC_VE_Gewen.AdditionalTraits</li>
