@@ -21,7 +21,7 @@ Balance is not particularly relevant in this mod, as commonality is unaltered or
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/RimTraits---Vanilla-Trait-Colors/releases/tag/v1.9.1)
+- [Current Version](https://github.com/Sierra0001/RimTraits---Vanilla-Trait-Colors/releases/tag/v1.9.2)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116)
 - [GitHub](https://github.com/Sierra0001/RimTraits---Vanilla-Trait-Colors)
 
@@ -31,6 +31,4 @@ Ogliss and Gouda quiche for helping me figure out how to patch mods.
 
 ### Latest Changes
 
-- [RimWorld 1.4] RimWorld 1.4 Ready. (v1.9)
-- [DEV] Updated patching method for RimTrait - General Traits. (v1.9.1)
-- [DEV] Updated some labels to vanilla standards. (v1.9.1)
+- [DEV] Updated for Additional Traits (Heroes + Gods Optional).

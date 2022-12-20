@@ -5,10 +5,10 @@
 	<packageId>Sierra.RT.VanillaTraitColors</packageId>
 	<url></url>
 	<supportedVersions>
-		<li>1.1</li>
-		<li>1.2</li>
-		<li>1.3</li>
-		<li>1.4</li>
+	<li>1.1</li>
+	<li>1.2</li>
+	<li>1.3</li>
+	<li>1.4</li>
 	</supportedVersions>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
@@ -17,7 +17,7 @@
 		<li>Ludeon.RimWorld.Biotech</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.9[/h1]
+[h1]Mod Version: v1.9.2[/h1]
 
 
 This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to their commonality using the RimTraits coloring scheme.
@@ -32,19 +32,19 @@ This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to thei
 
 [b]Recommended Mods:[/b]
 [list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
+- [i]De facto mod for Medieval games.[/i]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2646321064]Medieval Empire Overhaul[/url]
+- [i]Requires Medieval Overhaul. Changes Empire faction from Spacer to Medieval.[/i]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2836791007]RimFantasy - Medieval Overhaul Edition[/url]
-[b]- Recommended for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url] users. Incompatible with the other RimFantasy mods.[/b]
+- [i]Core mod for RimFantasy. Adds various gem-based magical furniture and weapons. Requires Medieval Overhaul.[/i]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2903293603]RimFantasy - House Doyle[/url]
+- [i]Official RimFantasy AddOn. Adds player craftable house armor plus a new line of Arcane Weapons.[/i]
 
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630669656]RimFantasy - Gemstones[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630670287]RimFantasy - Temperature Regulation[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2632845986]RimFantasy - Crystallic Lighting[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634323159]RimFantasy - Arcane Batons[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2656314145]RimFantasy - Arcane Defences[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2651522590]RimFantasy - Arcane Weapons[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2655568216]RimFantasy Addon - Heroic Weapons[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talents[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colours[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897850163]DLC Mechanics Patch[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595980371]Milkshakes - Digital Deluxe Edition[/url]
 
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url]
@@ -87,22 +87,9 @@ Join the Discord (link below) for troubleshooting and bug reports. Steam is a te
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.8.1[/b]
+[b]v1.9.2[/b]
 [list]
-[*][Fix] Fixed trait colors not working for certain traits due to change in packageId.
-[/list]
-
-[b]v1.9[/b]
-[list]
-[*][RimWorld 1.4] RimWorld 1.4 Ready.
-[*][DEV] Updated some labels to vanilla standards.
-[/list]
-
-[b]v1.9.1[/b]
-[list]
-[*][RimWorld 1.4] RimWorld 1.4 Ready.
-[*][DEV] Updated patching method for RimTrait - General Traits.
-[*][DEV] Updated some labels to vanilla standards.
+[*][DEV] Updated for Additional Traits (Heroes + Gods Optional).
 [/list]
 	</description>
 </ModMetaData>

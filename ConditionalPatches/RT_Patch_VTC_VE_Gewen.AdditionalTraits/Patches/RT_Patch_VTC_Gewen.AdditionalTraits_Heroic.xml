@@ -37,6 +37,20 @@
   </Operation>
 
   <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="GAT_Apollo"]/degreeDatas/li[label="Apollo's Harmony"]/label</xpath>
+    <value>
+      <label>&lt;color=#e0115f&gt;Apollo's Harmony&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="GAT_Hades"]/degreeDatas/li[label="MHades' Wealth"]/label</xpath>
+    <value>
+      <label>&lt;color=#e0115f&gt;Hades' Wealth&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
     <xpath>/Defs/TraitDef[defName="GAT_Aphrodite"]/degreeDatas/li[label="Aphrodite's Grace"]/label</xpath>
     <value>
       <label>&lt;color=#e0115f&gt;Aphrodite's Grace&lt;/color&gt;</label>
@@ -44,30 +58,44 @@
   </Operation>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/TraitDef[defName="GAT_Mercury"]/degreeDatas/li[label="Mercury's Blessing"]/label</xpath>
+    <xpath>/Defs/TraitDef[defName="GAT_Demeter"]/degreeDatas/li[label="Demeter's Bounty"]/label</xpath>
     <value>
-      <label>&lt;color=#e0115f&gt;Mercury's Blessing&lt;/color&gt;</label>
+      <label>&lt;color=#e0115f&gt;Demeter's Bounty&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/TraitDef[defName="GAT_Sylvanus"]/degreeDatas/li[label="Sylvanus' Blessing"]/label</xpath>
+    <xpath>/Defs/TraitDef[defName="GAT_Pan"]/degreeDatas/li[label="Pan's Blessing"]/label</xpath>
     <value>
-      <label>&lt;color=#e0115f&gt;Sylvanus' Blessing&lt;/color&gt;</label>
+      <label>&lt;color=#e0115f&gt;Pan's Blessing&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/TraitDef[defName="GAT_Vulcan"]/degreeDatas/li[label="Vulcan's Fire"]/label</xpath>
+    <xpath>/Defs/TraitDef[defName="GAT_Hephaestus"]/degreeDatas/li[label="Hephaestus' Forge"]/label</xpath>
     <value>
-      <label>&lt;color=#e0115f&gt;Vulcan's Fire&lt;/color&gt;</label>
+      <label>&lt;color=#e0115f&gt;Hephaestus' Forge&lt;/color&gt;</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/TraitDef[defName="GAT_Imhotep"]/degreeDatas/li[label="Imhotep's Wisdom"]/label</xpath>
+    <xpath>/Defs/TraitDef[defName="GAT_Asclepius"]/degreeDatas/li[label="Asclepius' Healing"]/label</xpath>
+    <value>
+      <label>&lt;color=#e0115f&gt;Asclepius' Healing&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="GAT_Athena"]/degreeDatas/li[label="Athena's Wisdom"]/label</xpath>
     <value>
       <label>&lt;color=#e0115f&gt;Imhotep's Wisdom&lt;/color&gt;</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraitDef[defName="GAT_Hermes"]/degreeDatas/li[label="Hermes' Haste"]/label</xpath>
+    <value>
+      <label>&lt;color=#e0115f&gt;Hermes' Haste&lt;/color&gt;</label>
     </value>
   </Operation>
 
