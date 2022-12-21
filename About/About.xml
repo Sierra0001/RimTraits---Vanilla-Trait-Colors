@@ -17,7 +17,7 @@
 		<li>Ludeon.RimWorld.Biotech</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.9.2[/h1]
+[h1]Mod Version: v1.10[/h1]
 
 
 This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to their commonality using the RimTraits coloring scheme.
@@ -27,6 +27,16 @@ This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to thei
 [list]
 [*]Vanilla trait coloring
 [*]Modded trait coloring (4 mods)
+[/list]
+
+
+[b]Supported Mods:[/b]
+[list]
+[*]RimTraits - General Traits
+[*]Vanilla Traits Expanded
+[*]Vanilla Fishing Expanded
+[*]Medieval Overhaul
+[*]Additional Traits (Heroes + Gods Optional)
 [/list]
 
 
@@ -56,10 +66,6 @@ This mod changes [b]Vanilla[/b] and [b]Modded[/b] trait colors according to thei
 [b]Mod Compatibility:[/b]
 [list]
 [*][Minor Conflict] Conflicts with mods that changes trait color based on commonality.
-[*][Mod Support] Built-in support for RimTraits - General Traits.
-[*][Mod Support] Built-in support for Vanilla Fishing Expanded.
-[*][Mod Support] Built-in support for Vanilla Traits Expanded.
-[*][Mod Support] Built-in support for Additional Traits (Heroes + Gods Optional).
 [/list]
 
 
@@ -87,9 +93,9 @@ Join the Discord (link below) for troubleshooting and bug reports. Steam is a te
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.9.2[/b]
 [list]
 [*][DEV] Updated for Additional Traits (Heroes + Gods Optional).
+[*][New] Added Support for Medieval Overhaul.
 [/list]
 	</description>
 </ModMetaData>

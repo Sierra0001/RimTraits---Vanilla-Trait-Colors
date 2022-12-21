@@ -44,7 +44,7 @@
   </Operation>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/TraitDef[defName="GAT_Hades"]/degreeDatas/li[label="MHades' Wealth"]/label</xpath>
+    <xpath>/Defs/TraitDef[defName="GAT_Hades"]/degreeDatas/li[label="Hades' Wealth"]/label</xpath>
     <value>
       <label>&lt;color=#e0115f&gt;Hades' Wealth&lt;/color&gt;</label>
     </value>
